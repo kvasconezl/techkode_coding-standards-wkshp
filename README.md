@@ -1,1 +1,1 @@
-# techkode_coding-standars-wkshp
+# techkode_coding-standards-wkshp
